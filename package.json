@@ -1,7 +1,7 @@
 {
   "name": "furry-winner",
   "version": "1.0.0",
-  "description": "",
+  "description": "Quick configuration of webpack with React",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open",
